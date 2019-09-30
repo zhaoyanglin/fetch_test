@@ -1,0 +1,1 @@
+to run the program, do: npm test
